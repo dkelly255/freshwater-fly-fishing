@@ -9,4 +9,15 @@
 body{
     font-family:Ubuntu;
     font-weight: 400;
+    color: #3a3a3a;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #252525;
+}
+
+#main_logo {
+    float: left;
 }
