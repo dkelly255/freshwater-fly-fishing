@@ -14,10 +14,38 @@ body{
 
 h1, h2 {
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     color: #252525;
 }
 
 #main_logo {
     float: left;
+}
+
+#navigation_bar {
+    font-size:115%;
+    letter-spacing: 4px;
+}
+
+#navigation_bar, #main_logo {
+    line-height: 75px;
+}
+
+#navigation_bar li {
+    float:right;
+    list-style-type: none;
+    margin: right 25px;
+}
+
+#navigation_bar a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#navigation_bar a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.selected_page {
+    border-bottom: 1px solid #3a3a3a;
 }
