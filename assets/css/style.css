@@ -9,13 +9,13 @@
 body{
     font-family:Ubuntu;
     font-weight: 400;
-    color: #3a3a3a;
+    color: #2382db;
 }
 
 h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #2382db;
 }
 
 #main_logo {
@@ -43,9 +43,64 @@ h1, h2 {
 }
 
 #navigation_bar a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #2382db;
 }
 
 .selected_page {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #2382db;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../css/images/FFMainImage.webp') no-repeat center center;
+
+/* animates zoom effect on home page*/
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+#main-outer {
+    height: 600px;
+    width:100%;
+    overflow:hidden;
+
+    position:relative;
+
+}
+
+/* Creates the zoom for the main image on home page */
+@keyframes main-zoom {
+    from {
+        transform: scale(1)
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#main-image-text, #main-image-text h2 {
+    color: #fff 
+}
+
+#mainimagetext {
+    font-size:130%;
+    
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(107, 165, 241, 0.7);
+
+    bottom: 350px;
+    right: 150px;
+
+    position:absolute;
 }
