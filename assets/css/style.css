@@ -211,3 +211,14 @@ footer {
     color:#2382db;
     
 }
+
+#gallerypictures {
+    clear:both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#gallerypictures > img {
+    width:100%;
+}
