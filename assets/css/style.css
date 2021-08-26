@@ -38,7 +38,7 @@ h1, h2 {
 #navigation_bar li {
     float:right;
     list-style-type: none;
-    margin: right 25px;
+    margin-right: 25px;
 }
 
 #navigation_bar a {
@@ -87,7 +87,7 @@ h1, h2 {
     }
 }
 
-#main-image-text, #main-image-text h2 {
+#mainimagetext, #mainimagetext h2 {
     color: #fff 
 }
 
