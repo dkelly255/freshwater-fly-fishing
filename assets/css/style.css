@@ -285,3 +285,35 @@ footer {
     background-color: white;
     color: black;
 }
+
+/* Responsiveness & Media Queries*/
+
+@media screen and (max-width: 1200px) {
+    #about-header {
+        width: 65%
+        height:1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding:30px 0;
+        margin: 0;
+    }
+
+    #left-style, #right-style {
+        width: 100%;
+        float: left;
+        padding: 0;
+
+    }
+    #center-style {
+        clear:both;
+        width:100%;
+        float:left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
