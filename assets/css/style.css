@@ -330,5 +330,27 @@ footer {
         line-height: 25px;
     }
 
-    
+    #mainimagetext {
+        left: 15px;
+        bottom: 220px;
+    }
+
+    #about-header {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-style-heading, .right-style-heading {
+        width: inherit;
+    }
+
+    .left-style-heading h2, .right-style-heading h2 {
+        width: 100%;
+        text-align: center;
+    } 
+
+    .left-style-heading p, .right-style-heading p {
+        text-align: center;
+        padding: 0 20px;
 }
