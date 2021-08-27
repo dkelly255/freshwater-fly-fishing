@@ -290,8 +290,8 @@ footer {
 
 @media screen and (max-width: 1200px) {
     #about-header {
-        width: 65%
-        height:1200px;
+        width: 65%;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -316,4 +316,19 @@ footer {
     hr {
         display: none;
     }
+}
+
+/* For screens 950px and smaller*/
+
+@media screen and (max-width: 950px) {
+    
+    #navigation_bar {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    
 }
