@@ -374,6 +374,13 @@ footer {
     }
 }
 
+/* Locations page*/
 
+.locations {
+    top: 100px;
+    border: solid;
+    position: relative;
+    text-align: left;
+}
 
 
