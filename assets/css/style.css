@@ -223,6 +223,11 @@ footer {
     width:100%;
 }
 
+.galleryimages {
+    width: 200;
+    height: auto;
+}
+
 /* Contact Page*/
 
 .contact-section {
@@ -235,7 +240,7 @@ footer {
 
 .contact-form {
     margin: 150px 10% 0 0;
-    color: #2382db;
+    color: rgb(0, 0, 0) ;
     background-color: rgba(60,60,60,0.6);
     max-width: 400px;
     position: absolute;
@@ -243,14 +248,18 @@ footer {
     padding: 30px;
     }
 
+.form_headings {
+    color:rgb(255, 255, 255);
+}
+
 .contact-form > h2 {
-    color: #2382db;
+    color: #fff ;
     margin-bottom: 20px;
 }
 
 .contact-input {
     background: white;
-    color: #2382db;
+    color: rgb(0, 0, 0)  ;
     width:100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -264,7 +273,7 @@ footer {
 
 .query-input {
     background: white;
-    color: #2382db;
+    color: rgb(0, 0, 0) ;
     width:100%;
     height: 125px;
     margin: 5px 0 20px 0;
