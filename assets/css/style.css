@@ -225,7 +225,7 @@ footer {
 }
 
 .galleryimages {
-    width: 200;
+    width: 200px;
     height: auto;
 }
 
@@ -391,8 +391,14 @@ footer {
     border: solid;
     position: relative;
     text-align: left;
-    Width:95%;
+    Width:50%;
     left:10px;
+   
+    
 }
 
+.locationimages {
+    width: 250px;
+    height: auto;
+}
 
