@@ -403,6 +403,17 @@ footer {
     height: auto;
 }
 
-.river_articles {
-    display:inline
+.riversgrid {
+    display: grid;
+    grid-template-columns: 100px 275px 1fr;
+    grid-template-rows: 180px 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.riversgrid div {
+    width: 95%;
+    height: 95%;
+    background:inherit;
+    padding:10px;
+
 }
