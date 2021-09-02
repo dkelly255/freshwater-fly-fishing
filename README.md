@@ -3,6 +3,7 @@
 - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing
 - External User's goal: The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport
 - (*Placeholder for Screenshots of website pages on different form-factors*)
+![](/workspace/freshwater-fly-fishing/assets/css/images/readme/Responsive.PNG)
 
 # Features
 
