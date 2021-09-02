@@ -53,9 +53,19 @@
 - Expanding site contents to include Saltwater Fly Fishing 
 
 # Testing
+- I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari
+- I also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes 
+- I confirmed that the navigation, header, about section, and contact pages are all readable & easy to understand
+- Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 ## HTML
+- The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
 ## CSS
+- The CSS Ji3saw Validator was used to confirm that the CSS code was error free & functioned as expected
+## Accesibility
+- Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
+![alt text](assets/css/images/readme/accessibility.PNG)
 ## Unfixed Bugs
+- No unfixed bugs were present in the finalised website code
 # Deployment
 # Credits
 ## Content
