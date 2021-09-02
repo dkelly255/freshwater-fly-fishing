@@ -10,6 +10,7 @@
 - The Navigation bar is featured on all four pages of the site, and is identical on each page for consistency and  ease of navigation . 
 - It is fully responsive, and includes links to the Home page, Locations, Gallery, and Contact pages
 - This section will allow the site user to navigate quickly and easily from page to page across all device form-factors without having to use the “back” button to revert to previous pages
+
 ![alt text](assets/css/images/readme/navbar.PNG)
 
 ## Home Page Image
