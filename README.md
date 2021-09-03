@@ -59,9 +59,11 @@
 - Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 ## HTML
 - The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
+
 ![alt text](assets/css/images/readme/html_validation.png)
 ## CSS
 - The CSS Ji3saw Validator was used to confirm that the CSS code was error free & functioned as expected
+
 ![alt text](assets/css/images/readme/css_validation.png)
 ## Accessibility
 - Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
