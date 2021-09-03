@@ -60,7 +60,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url('../css/images/FFMainImage2.png') no-repeat center center;
+    background: url('../css/images/ffmainimage2.png') no-repeat center center;
 
 /* animates zoom effect on home page*/
     animation-name: main-zoom;
@@ -184,7 +184,7 @@ hr {
 }
 
 #circle-inner-image {
-    background: url('../css/images/FFSubImage1resized.png') no-repeat center center;
+    background: url('../css/images/ffsubimage1resized.png') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 
@@ -233,7 +233,7 @@ footer {
 
 .contact-section {
     clear: left;
-    background: url(../css/images/FFMainImage2.png) no-repeat center center;
+    background: url(../css/images/ffmainimage2.png) no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
