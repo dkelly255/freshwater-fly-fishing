@@ -64,9 +64,24 @@
 ## Accessibility
 - Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
 ![alt text](assets/css/images/readme/accessibility.PNG)
-## Unfixed Bugs
+## Resolved Bugs
+- Initially there were unexplained hypens present between my social media linksin my footer - i discovered this was due to spaces being present in my <a> tags in the footer from skipping lines & this was resolved
+- The Text overlay on the Home Page Main Image was not travelling correctly with responsive screen sizes - this was due to a missing absolute position attribute in the CSS code and was resolved by adding the required attribute
+## Unresolved Bugs
 - No unfixed bugs were present in the finalised website code
 # Deployment
+- The site was deployed to Github pages. The steps to display are as follows:
+    - In the GitHub repository, navigate to the settings tab
+    - From the source section drop-down menu, select the master branch
+    - The link will then be provided to the completed website
+    
+The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.github.io/freshwater-fly-fishing/)
+
 # Credits
+
 ## Content
+- The code to make the social media links for the footer was initially taken from the Code Institute [Love Running](https://github.com/dkelly255/love-running) project, and was updated to fit the look & feel of Freshwater Fly Fishing
 ## Media
+- The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/)
+- The site fonts were taken from [Google Fonts](https://fonts.google.com/)
+- Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
