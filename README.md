@@ -61,7 +61,7 @@
 - The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
 ## CSS
 - The CSS Ji3saw Validator was used to confirm that the CSS code was error free & functioned as expected
-## Accesibility
+## Accessibility
 - Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
 ![alt text](assets/css/images/readme/accessibility.PNG)
 ## Unfixed Bugs
