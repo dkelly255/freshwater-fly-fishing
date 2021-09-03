@@ -77,7 +77,7 @@
 ## Accessibility
 - Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
 
-![alt text](assets/css/images/readme/accessibility.png)
+![alt text](assets/css/images/readme/accessibility1.png)
 
 ## Resolved Bugs
 - Initially there were unexplained hypens present between my social media linksin my footer - i discovered this was due to spaces being present in my <a> tags in the footer from skipping lines & this was resolved
