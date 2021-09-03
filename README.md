@@ -2,7 +2,7 @@
 - Site Owner's goal: Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland
 - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing
 - External User's goal: The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport
-![alt text](assets/css/images/readme/responsive.PNG)
+![alt text](assets/css/images/readme/responsive1.PNG)
 
 # Features
 
