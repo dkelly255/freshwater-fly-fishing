@@ -59,6 +59,7 @@
 - Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 ## HTML
 - The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
+![alt text](assets/css/images/readme/html_validation.PNG)
 ## CSS
 - The CSS Ji3saw Validator was used to confirm that the CSS code was error free & functioned as expected
 ## Accessibility
@@ -74,7 +75,7 @@
     - In the GitHub repository, navigate to the settings tab
     - From the source section drop-down menu, select the master branch
     - The link will then be provided to the completed website
-    
+
 The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.github.io/freshwater-fly-fishing/)
 
 # Credits
