@@ -16,7 +16,7 @@
 ## Home Page Image
 - The home page includes a photograph with Text overlay to welcome the user to the site upon first arrival
 - This section welcomes the user with an eye-catching animation to grab their attention
-![alt text](assets/css/images/readme/homepage.PNG)
+![alt text](assets/css/images/readme/homepage1.PNG)
 
 ## "About Us" Section
 - The About us section will display for the user a selection of the reasons people wish to participate in the Sport of Fly Fishing
