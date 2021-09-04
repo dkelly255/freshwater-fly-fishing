@@ -384,36 +384,42 @@ footer {
     }
 }
 
-/* Locations page*/
+/*Locations page*/
 
-.locations {
-    top: 100px;
-    border: solid;
-    position: relative;
-    text-align: left;
-    Width:50%;
-    padding: 40px;
-    left:10px;
-   
-    
+#rivers{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 2.5fr;
+    max-width: 960px;
+    margin: 0 auto;
+    border: 2px solid #2382db;
+    border-radius: 1%;
+}
+
+#rivers div{
+    background: inherit;
+    padding: 10px;
+}
+
+#lakes {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 2.5fr;
+    max-width: 960px;
+    margin: 0 auto;
+    border: 2px solid #2382db ;
+    border-radius: 1%;
+}
+
+#lakes div{
+    background: inherit;
+    padding: 10px;
 }
 
 .locationimages {
-    width: 250px;
-    height: auto;
+    width:200px;
+    border: 1px solid #2382db;
 }
 
-.locationsgrids {
-    display: grid;
-    grid-template-columns: 100px 275px 1fr;
-    grid-template-rows: 180px 1fr 1fr;
-    grid-gap: 20px;
-}
-
-.locationsgrids div {
-    width: 95%;
-    height: 95%;
-    background:inherit;
-    padding:10px;
-
+.locationheading {
+    margin:0 auto ;
+    text-align: center;
 }
