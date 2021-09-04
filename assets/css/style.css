@@ -393,10 +393,13 @@ footer {
     margin: 0 auto;
     border: 2px solid #2382db;
     border-radius: 1%;
+    background-color: rgba(60,60,60,0.6)
+    
+    
 }
 
 #rivers div{
-    background: inherit;
+    color:rgb(255, 255, 255);
     padding: 10px;
 }
 
@@ -407,16 +410,18 @@ footer {
     margin: 0 auto;
     border: 2px solid #2382db ;
     border-radius: 1%;
+    background-color: rgba(60,60,60,0.6)
+    
 }
 
 #lakes div{
-    background: inherit;
+    color:rgb(255, 255, 255);
     padding: 10px;
 }
 
 .locationimages {
     width:200px;
-    border: 1px solid #2382db;
+    border: 1px solid rgb(255, 255, 255);
 }
 
 .locationheading {
