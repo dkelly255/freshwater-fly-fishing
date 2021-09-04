@@ -428,3 +428,11 @@ footer {
     margin:0 auto ;
     text-align: center;
 }
+
+.location-section {
+    clear: left;
+    background: url(../css/images/ffmainimage2.png) no-repeat center center;
+    background-size: cover;
+    background-position: center;
+    
+}
