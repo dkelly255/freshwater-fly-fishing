@@ -443,3 +443,38 @@ footer {
     background-position: center;
     
 }
+
+/* Responsive design for Locations page - screens below 500 px */
+
+@media screen and (max-width: 500px) {
+    
+    #rivers{
+        display: grid;
+        grid-template-columns: 2.5fr;
+        margin: 0 auto;
+        border: 2px solid #2382db;
+        border-radius: 2%;
+        background-color: rgba(60,60,60,0.6)      
+    }
+    
+    #rivers div{
+        color:rgb(255, 255, 255);
+        padding: 10px;
+        text-align:center;
+    }
+
+    #lakes {
+        display: grid;
+        grid-template-columns: 2.5fr;
+        margin: 0 auto;
+        border: 2px solid #2382db ;
+        border-radius: 2%;
+        background-color: rgba(60,60,60,0.6)   
+    }
+
+    #lakes div{
+        color:rgb(255, 255, 255);
+        padding: 10px;
+        text-align: center;
+    }
+}
