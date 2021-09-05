@@ -193,7 +193,7 @@ hr {
 /* Footer Styling*/
 
 footer {
-    height: 150px;
+    height: 500px;
     
 }
 
@@ -301,7 +301,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #about-header {
         width: 65%;
-        height: 1200px;
+        height: 1000px;
         margin: 0 auto;
     }
 
@@ -351,7 +351,7 @@ footer {
 
     #about-header {
         width: 90%;
-        height: 1200px;
+        height: 1000px;
         margin: 0 auto;
     }
 
