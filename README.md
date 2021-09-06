@@ -1,14 +1,37 @@
 # Freshwater-Fly-Fishing
 
 ## Introduction
-- Site Owner's goal: Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland
-- The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing
-- External User's goal: The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport
+### Concept
+- Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland (Site Owner's Goal)
+- The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
+- The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing (External User's goal)
 
-### User Stories
-### Wireframes
 
 ![alt text](assets/css/images/readme/responsive1.png)
+
+### User Stories
+- As a user of the site I would like to be able to:
+    - Learn about why Fly Fishing can be an enjoyable experience
+    - Identify some of the locations where Fly Fishing can be practised in Ireland
+    - See pictures to understand Fly Fishing, the equipment and the environment in which it can be practised
+    - Contact the Freshwater Fly Fishing website owners to ask any questions or queries related to the sport in Ireland
+
+
+### Wireframes
+- I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
+
+#### Home Page & Nav Bar Original Concepts:
+![alt text](assets/css/images/readme/wf_home.png)
+
+#### Locations Page Original Concept:
+![alt text](assets/css/images/readme/wf_locations.png)
+
+#### Gallery Original Concept:
+![alt text](assets/css/images/readme/wf_gallery.png)
+
+#### Contact Page Original Concept:
+![alt text](assets/css/images/readme/wf_contact.png)
+
 
 ## Table of Contents
 
@@ -110,7 +133,7 @@
     - Line Casting 
     - Fly Tying
 - User-submitted photos (e.g. locations & catches)
-- Instructional & recipies for cooking your fish
+- Education on Equipment Used & where to purchase
 - Expanding site contents to include Saltwater Fly Fishing 
 
 ## Testing
@@ -130,9 +153,30 @@
 ![alt text](assets/css/images/readme/css_validation.png)
 
 ### Accessibility
-- Lighthouse was used to audit the accesibility of the site via DevTools, confirming that the site was accesible & would be easy to use for all audiences
+- Generically I used the DevTools suite, and Lighthouse to audit the site's accessibility and found the site had several accessiblity deficiencies in the early stages of development. 
+- The most common issues were, firstly missing alt texts on the images on the gallery/locations pages, which I corrected by ensuring all images throughout the site had meaningful alt text descriptions... and secondly, inappropriately large image file sizes, which I was able to correct by redownloading images from source websites in smaller sizes, and then running the smaller baseline images through compression software at TinyPNG.com
 
-![alt text](assets/css/images/readme/accessibility1.png)
+#### Home Page Lighthouse Scores:
+![alt text](assets/css/images/readme/home_lighthouse.png)
+
+#### Locations Page Lighthouse Scores:
+![alt text](assets/css/images/readme/locations_lighthouse.png)
+
+#### Gallery Page Lighthouse (Initial Scores):
+- Initially I found the gallery page had very low performance scores on Lighthouse - I was able to resolve this by using smaller renders of the same images to improve the score
+
+![alt text](assets/css/images/readme/gallery_performance1.png)
+
+#### Gallery Page Lighthouse (Updated Scores):
+- The updated accessibility score is shown below with a much improved performance metric following my changes above
+![alt text](assets/css/images/readme/gallery_performance2.png)
+
+
+#### Contact Page Lighthouse Scores:
+![alt text](assets/css/images/readme/contact_lighthouse.png)
+
+
+
 
 ### Resolved Bugs
 - Initially there were unexplained hypens present between my social media linksin my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
@@ -199,3 +243,4 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
 - The site fonts were taken from [Google Fonts](https://fonts.google.com/)
 - Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
+- All descriptions of Rivers & Lakes were sourced from wikipedia.com
