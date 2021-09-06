@@ -164,9 +164,18 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
   4. Lough Currane - [Photo](https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Jaime Reimer from Pexels 
   5. Lough Mask - [Photo](https://www.pexels.com/photo/landscape-photography-of-white-mountain-753325/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Julius Silver from Pexels 
   6. Lough Carra - [Photo](https://www.pexels.com/photo/scenic-view-of-lake-in-forest-247600/) from Pixabay (No attribution required)  
+
+  ##### Descriptions
+
+  1. River Clare - [Description](https://en.wikipedia.org/wiki/River_Clare) from Wikipedia, the Free Encylopedia 
+  2. River Moy - [Description](https://en.wikipedia.org/wiki/River_Moy) from Wikipedia, the Free Encylopedia  
+  3. River Boyne - [Description](https://en.wikipedia.org/wiki/River_Boyne) from Wikipedia, the Free Encylopedia  
+  4. Lough Currane - [Description](https://en.wikipedia.org/wiki/Lough_Currane) from Wikipedia, the Free Encylopedia  
+  5. Lough Mask - [Description](https://en.wikipedia.org/wiki/Lough_Mask) from Wikipedia, the Free Encylopedia  
+  6. Lough Carra - [Description](https://en.wikipedia.org/wiki/Lough_Carra) from Wikipedia, the Free Encylopedia  
     
 
   ### Media
-- The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/)
+- The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
 - The site fonts were taken from [Google Fonts](https://fonts.google.com/)
 - Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
