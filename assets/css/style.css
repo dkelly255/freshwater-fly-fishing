@@ -24,24 +24,22 @@ h1, h2 {
     color: #2382db;
 }
 
-/* Style Main Logo Text */
+/* Style Main Logo */
 /* Credits: Code adapted from Code Institute Love Running Project */
 
 #main_logo {
     float: left;
     margin-left: 30px;
+    line-height: 75px;
 }
 
-/* Style Navigation Bar */
+/* Styling for Navigation Bar & associated elements*/
 /* Credits: Code adapted from Code Institute Love Running Project */
 
 #navigation_bar {
     font-size:115%;
-  }
-
-#navigation_bar, #main_logo {
     line-height: 75px;
-}
+  }
 
 #navigation_bar li {
     float:right;
@@ -54,20 +52,27 @@ h1, h2 {
     color:inherit;    
 }
 
+/* Highlight Navigation Bar elements when hovered over */
+/* Credits: Code adapted from Code Institute Love Running Project */
 #navigation_bar a:hover {
     border-bottom: 1px solid #2382db;
 }
 
+/* Highlight current website page in navbar for ease of use */
+/* Credits: Code adapted from Code Institute Love Running Project */
 .selected_page {
     border-bottom: 1px solid #2382db;
 }
 
+/* Add Hero Image, and specify dimensions */
+/* Credits: Code adapted from Code Institute Love Running Project */
 #main-image {
     height: 600px;
     width: 100%;
     background: url('../css/images/ffmainimage2.png') no-repeat center center;
 
-/* animates zoom effect on home page*/
+/* Animate hero-image zoom effect on home page*/
+/* Credits: Code adapted from Code Institute Love Running Project */
     animation-name: main-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -81,6 +86,7 @@ h1, h2 {
 }
 
 /* Creates the zoom for the main image on home page */
+/* Credits: Code adapted from Code Institute Love Running Project */
 @keyframes main-zoom {
     from {
         transform: scale(1.0)
@@ -90,10 +96,8 @@ h1, h2 {
     }
 }
 
-#mainimagetext, #mainimagetext h2 {
-    color: #fff 
-}
-
+/* Creates the text overlay box for the main image on home page */
+/* Credits: Code adapted from Code Institute Love Running Project */
 #mainimagetext {
     font-size:130%;
     text-transform: uppercase;
@@ -108,11 +112,19 @@ h1, h2 {
     position:absolute;
 }
 
+#mainimagetext, #mainimagetext h2 {
+    color: #fff 
+}
+
+/* Style the "about" section (text alignment)" */
 #about-header {
     text-align: center;
     }
 
-/* About section*/
+/* Styling for "About" section elements - structure across 3x Divs*/
+/* Credits: Code adapted from Code Institute Love Running Project */
+
+
 #left-style {
     padding-top: 80px;
     width: 33%;
