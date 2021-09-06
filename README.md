@@ -5,11 +5,18 @@
 - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing
 - External User's goal: The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport
 
+### User Stories
+### Wireframes
+
 ![alt text](assets/css/images/readme/responsive1.png)
 
 ## Table of Contents
 
 - ### [Introduction](https://github.com/dkelly255/freshwater-fly-fishing#introduction)
+    
+    - #### [User Stories](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Wireframes](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
 - ### [Features](https://github.com/dkelly255/freshwater-fly-fishing#features)
 
