@@ -7,6 +7,28 @@
 
 ![alt text](assets/css/images/readme/responsive1.png)
 
+## Table of Contents
+
+- ### [Introduction](https://github.com/dkelly255/freshwater-fly-fishing#introduction)
+
+- ### [Features](https://github.com/dkelly255/freshwater-fly-fishing#features)
+
+    - #### [Navigation Bar](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Home Page](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### ["About" Section](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Locations](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Footer](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Gallery](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+     - #### [Contact Page](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+     - #### [Features Yet To Implement](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
 ## Features
 
 ### Navigation Bar
