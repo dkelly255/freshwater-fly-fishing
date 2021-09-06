@@ -178,18 +178,18 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 
 ##### Images
 
-  1. gallery1 - [Photo](https://www.pexels.com/photo/nature-forest-waves-trees-2438/) from Pixabay (No attribution required) 
-  2. gallery2 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  3. gallery3 - [Photo](https://www.pexels.com/photo/body-of-water-between-green-leaf-trees-709552/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Ian Turnell from Pexels 
-  4. gallery4 - [Photo](https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Jaime Reimer from Pexels 
-  5. gallery5 - [Photo](https://www.pexels.com/photo/landscape-photography-of-white-mountain-753325/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Julius Silver from Pexels 
-  6. gallery6 - [Photo](https://www.pexels.com/photo/scenic-view-of-lake-in-forest-247600/) from Pixabay (No attribution required)  
-  2. gallery7 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  2. gallery8 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  2. gallery9 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  2. gallery10 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  2. gallery11 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
-  2. gallery12 - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
+  1. gallery1 - [Photo](https://www.pexels.com/photo/wood-fishing-dawn-landscape-5738360/) by Austin Cooper from Pexels
+  2. gallery2 - [Photo](https://www.pexels.com/photo/boy-catching-fish-with-fishing-rod-3099187/) by Maël Balland from Pexels
+  3. gallery3 - [Photo](https://www.pexels.com/photo/man-in-gray-jacket-and-black-pants-sitting-on-brown-rock-in-the-river-4828253/) by cottonbro from Pexels
+  4. gallery4 - [Photo](https://www.pexels.com/photo/iceland-fishing-sea-man-6739176/) by gaspar zaldo from Pexels
+  5. gallery5 - [Photo](https://www.pexels.com/photo/woman-in-red-striped-shirt-and-blue-denim-shorts-holding-fishing-rod-1143921/) by Brett Sayles from Pexels
+  6. gallery6 - [Photo](https://www.pexels.com/photo/fishing-light-sea-landscape-6738876/) by gaspar zaldo from Pexels 
+  7. gallery7 - [Photo](https://www.pexels.com/photo/man-in-gray-jacket-holding-black-fishing-rod-6739261/) by gaspar zaldo from Pexels 
+  8. gallery8 - [Photo](https://www.pexels.com/photo/black-and-brown-fishing-rod-beside-hook-and-brown-knife-3690705/) by Pablo Gutierrez from Pexels
+  9. gallery9 - [Photo](https://www.pexels.com/photo/fishing-light-sea-landscape-8926362/) by Jamie Ross from Pexels
+  10. gallery10 - [Photo](https://www.pexels.com/photo/landscape-photography-of-body-of-water-near-mountains-1192662/) by Oziel Gómez from Pexels
+  11. gallery11 - [Photo](https://www.pexels.com/photo/man-in-brown-jacket-standing-on-river-6970952/)  by Kathryn Archibald from Pexels
+  12. gallery12 - [Photo](https://www.pexels.com/photo/wood-fishing-landscape-water-6590545/) by Greg from Pexels
 
   ### Media
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
