@@ -14,6 +14,8 @@
 
 - ### [Introduction](https://github.com/dkelly255/freshwater-fly-fishing#introduction)
     
+    - #### [Concept](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+    
     - #### [User Stories](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
     - #### [Wireframes](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
@@ -24,7 +26,7 @@
 
     - #### [Home Page](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
-    - #### ["About" Section](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+    - #### [About Section](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
     - #### [Locations](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
@@ -32,9 +34,31 @@
 
     - #### [Gallery](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
-     - #### [Contact Page](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+    - #### [Contact Page](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
-     - #### [Features Yet To Implement](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+    - #### [Features Yet To Implement](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+- ### [Testing](https://github.com/dkelly255/freshwater-fly-fishing#features)
+
+    - #### [Generic Testing](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [HTML Validation](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [CSS Validation](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Accessibility](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Bugs (Resolved)](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Bugs (Unresolved)](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+- ### [Deployment](https://github.com/dkelly255/freshwater-fly-fishing#features)
+
+- ### [Credits](https://github.com/dkelly255/freshwater-fly-fishing#features)
+
+    - #### [Content](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
+
+    - #### [Media](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
 
 ## Features
 
