@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Oxygen&family=Roboto&family=Ubuntu:wght@300;400&display=swap');
 
+/* Set up initial generic/default styling */
+
+/* Default all elements to zero for margins, padding & borders */
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-
+/* Set default Body font-family, weight, color, and background color */
 body{
     font-family:Ubuntu;
     font-weight: 400;
@@ -14,23 +17,27 @@ body{
     background-color: rgba(236, 236, 234, 0.644);
 }
 
+/* Set H1 & H2 headings to uppercase text, specific letter spacing and color */
 h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #2382db;
 }
 
+/* Style Main Logo Text */
+/* Credits: Code adapted from Code Institute Love Running Project */
 
 #main_logo {
     float: left;
     margin-left: 30px;
 }
 
+/* Style Navigation Bar */
+/* Credits: Code adapted from Code Institute Love Running Project */
+
 #navigation_bar {
     font-size:115%;
-    
-    
-}
+  }
 
 #navigation_bar, #main_logo {
     line-height: 75px;
@@ -44,10 +51,8 @@ h1, h2 {
 
 #navigation_bar a {
     text-decoration: none;
-    color:inherit;
-    
+    color:inherit;    
 }
-
 
 #navigation_bar a:hover {
     border-bottom: 1px solid #2382db;
@@ -68,14 +73,11 @@ h1, h2 {
     animation-fill-mode: forwards;
 }
 
-
 #main-outer {
     height: 600px;
     width:100%;
     overflow:hidden;
-
     position:relative;
-
 }
 
 /* Creates the zoom for the main image on home page */
@@ -94,29 +96,21 @@ h1, h2 {
 
 #mainimagetext {
     font-size:130%;
-    
     text-transform: uppercase;
-    
     letter-spacing: 4px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 25px;
     padding-left: 10px;
-
     background-color: rgba(3, 6, 10, 0.685);
-
     bottom: 50px;
     right: 60px;
-
     position:absolute;
 }
 
 #about-header {
     text-align: center;
-    
-}
+    }
 
 /* About section*/
 #left-style {
@@ -175,10 +169,10 @@ hr {
 #circle-border {
     width:300px;
     height:300px;
-    padding:30px;
+    padding:20px;
     border-style:solid;
     border-color: #2382db;
-    border-width:  1px;
+    border-width:  2px;
     border-radius: 50%;
     margin: 0 auto;
 }
@@ -187,22 +181,28 @@ hr {
     background: url('../css/images/ffsubimage1resized.png') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    border-style:solid;
+    border-color: #2382db;
+    border-width:  2px;
 
 }
 
 /* Footer Styling*/
 
 footer {
-    height: 500px;
-    
+    height: 150px;
+ 
 }
 
 .social-media {
     text-align: center;
+    
 }
 
 .social-media > li {
     display:inline;
+    
+    
 }
 
 .social-media i {
