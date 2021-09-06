@@ -86,7 +86,7 @@
 - The User will see a visual map and a key of the venues according to their nature – rivers and lakes.
 - This should help inform the user about where they can go to practise the skills and learn how to Fly Fish
 
-- (*Placeholder for IMAGE screenshot of locations page*)
+![alt text](assets/css/images/readme/locations.png)
 
 ### Footer
 - The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. The links will open to a new tab to allow easy navigation for the user.
