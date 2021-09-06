@@ -135,7 +135,7 @@
 ![alt text](assets/css/images/readme/accessibility1.png)
 
 ### Resolved Bugs
-- Initially there were unexplained hypens present between my social media linksin my footer - i discovered this was due to spaces being present in my <a> tags in the footer from skipping lines & this was resolved
+- Initially there were unexplained hypens present between my social media linksin my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
 - The Text overlay on the Home Page Main Image was not travelling correctly with responsive screen sizes - this was due to a missing absolute position attribute in the CSS code and was resolved by adding the required attribute
 
 ### Unresolved Bugs
@@ -154,7 +154,19 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 ### Content
 - The code to make the social media links for the footer was initially taken from the Code Institute [Love Running](https://github.com/dkelly255/love-running) project, and was updated to fit the look & feel of Freshwater Fly Fishing
 
-### Media
+#### Locations Page
+
+##### Images
+
+  1. River Clare - [Photo](https://www.pexels.com/photo/nature-forest-waves-trees-2438/) from Pixabay (No attribution required) 
+  2. River Moy - [Photo](https://www.pexels.com/photo/scenic-view-of-river-325807/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Dom Gould from Pexels 
+  3. River Boyne - [Photo](https://www.pexels.com/photo/body-of-water-between-green-leaf-trees-709552/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Ian Turnell from Pexels 
+  4. Lough Currane - [Photo](https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Jaime Reimer from Pexels 
+  5. Lough Mask - [Photo](https://www.pexels.com/photo/landscape-photography-of-white-mountain-753325/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Julius Silver from Pexels 
+  6. Lough Carra - [Photo](https://www.pexels.com/photo/scenic-view-of-lake-in-forest-247600/) from Pixabay (No attribution required)  
+    
+
+  ### Media
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/)
 - The site fonts were taken from [Google Fonts](https://fonts.google.com/)
 - Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
