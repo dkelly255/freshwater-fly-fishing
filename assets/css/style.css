@@ -116,8 +116,7 @@ h1, h2 {
 #left-style {
     padding-top: 80px;
     width: 33%;
-    float: left;
-    
+    float: left; 
     text-align: left;
     }
 
@@ -125,7 +124,6 @@ h1, h2 {
     padding-top: 80px;
     width: 33%;
     float: right;
-   
     text-align: left;
 }
 
@@ -133,7 +131,6 @@ h1, h2 {
     padding-top: 50px;
     width: 33%;
     margin: 0 auto;
-    
 }
 
 hr {
@@ -184,25 +181,19 @@ hr {
     border-style:solid;
     border-color: #2382db;
     border-width:  2px;
-
 }
 
 /* Footer Styling*/
-
 footer {
     height: 150px;
- 
 }
 
 .social-media {
     text-align: center;
-    
 }
 
 .social-media > li {
     display:inline;
-    
-    
 }
 
 .social-media i {
@@ -210,7 +201,6 @@ footer {
     margin: 2%;
     padding: 5%;
     color:#2382db;
-    
 }
 
 #gallerypictures {
@@ -230,7 +220,6 @@ footer {
 }
 
 /* Contact Page*/
-
 .contact-section {
     clear: left;
     background: url(../css/images/ffmainimage2.png) no-repeat center center;
@@ -297,7 +286,6 @@ footer {
 }
 
 /* Responsiveness & Media Queries*/
-
 @media screen and (max-width: 1200px) {
     #about-header {
         width: 65%;
@@ -318,7 +306,6 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
-
     }
     #center-style {
         clear:both;
@@ -344,11 +331,6 @@ footer {
         line-height: 25px;
     }
 
-    /* #mainimagetext {
-        left: 15px;
-        bottom: 220px;
-    } */
-
     #about-header {
         width: 90%;
         height: 1000px;
@@ -369,14 +351,13 @@ footer {
         padding: 0 20px;  
 }
 /* Responsive gallery page */
-
 #gallerypictures {
     column-count: 3;
 }
 
 }
 
-/* For small screen sizes 800px and below*/
+/* For small screen sizes 800px and below */
 @media screen and (max-width: 800px) {
     
     #gallerypictures {
@@ -384,7 +365,8 @@ footer {
     }
 }
 
-/*Locations page*/
+/* Locations page */
+/* Credits: Code adapted from TheCodeNinja CSS Grid tutorial */
 
 #rivers{
     display: grid;
@@ -394,8 +376,6 @@ footer {
     border: 2px solid #2382db;
     border-radius: 2%;
     background-color: rgba(60,60,60,0.6)
-    
-    
 }
 
 #rivers div{
@@ -411,7 +391,6 @@ footer {
     border: 2px solid #2382db ;
     border-radius: 2%;
     background-color: rgba(60,60,60,0.6)
-    
 }
 
 #lakes div{
@@ -441,7 +420,6 @@ footer {
     background: url(../css/images/ffmainimage2.png) no-repeat center center;
     background-size: cover;
     background-position: center;
-    
 }
 
 /* Responsive design for Locations page - screens below 500 px */
