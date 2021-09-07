@@ -129,12 +129,29 @@
 ![alt text](assets/css/images/readme/contact.png)
 
  ### Features Left to implement
- - Instructional videos on techniques & skills
-    - Line Casting 
-    - Fly Tying
-- User-submitted photos (e.g. locations & catches)
-- Education on Equipment Used & where to purchase
-- Expanding site contents to include Saltwater Fly Fishing 
+ - Equipment page:
+    - Overview of the equipment used:
+        - Rods: Sizes, guages, selection depending on user attributes, venue, target species
+        - Reels: types of reels, when to use, why use each type
+        - Lines: Floating vs sinking, when to use, key considerations, visibility 
+        - Flies: Wet, Dry, Lure, Stream, etc - when to use, why to use
+    - When to use, why to use, how to select, and where to purchase
+    - Including descriptions, images, articles and videos around each category
+ - Attire page: 
+    - Overview of clothing & attire used - Waders, Jackets, Hats, Footwear, Vests
+    - When to use, how to select, and where to purchase
+    - Including descriptions, images, articles and videos around each category
+ - Skills page:
+    - Overview of the unique techniques & skills of Fly Fishing
+        - Casting Techniques - how to learn, how to practice safely, links to instructional videos and teachers/lessons
+        - Fly Tying - how to get started creating your own flies, links to videos and lessons
+- Freshwater Forum
+    - Community/Discussion board where people can sign up to discuss & share experiences, photos, and questions around all aspects of the sport 
+    - Including everything from locations, techniques, catches, successes, failures and all other relevant areas
+- Expanding site contents/developing a sister-site focused on the promotion of Saltwater Fly Fishing 
+    - Fly fishing is currently primarily practiced in Freshwater in Ireland. The equipment design has been established around the generally smaller size and weight of fish in Freshwater relative to those found in saltwater
+    - However recreational saltwater flyfishing is an area that has potential for growth in future - there are many species of saltwater fish that can also be in scope for flyfishing, and this can be a greatly expanding market with huge potential in future years
+
 
 ## Testing
 - I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari, and also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes
