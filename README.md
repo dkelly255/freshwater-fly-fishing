@@ -149,7 +149,7 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
         - When to use, how to select, and where to purchase
         - Including descriptions, images, articles and videos around each category
  - Skills page:
-    - This would be an additional dedicated section of the website to cover - Overview of the unique techniques & skills of Fly Fishing, for example:
+    - This would be an additional dedicated section of the website to cover an overview of the unique techniques & skills of Fly Fishing, for example:
         - Casting Techniques - how to learn, how to practice safely, links to instructional videos and teachers/lessons
         - Fly Tying - how to get started creating your own flies, links to videos and lessons
         - Fish spotting - how to visually identify & track target fish, reading/estimating depths, understanding the flys in season for lure selection
@@ -171,7 +171,7 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
 ## Testing
 ### Generic Testing
 - I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari, and also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes
-- Additionally I tested the site on different devices, operating systems and form factors - Desktop & Laptop (Windows) Ipad Tablet (IOS), and Galaxy Note 10 Phone (Android )
+- Additionally I tested the site on different devices, operating systems and form factors - Desktop & Laptop (Windows) Ipad Tablet (IOS), and Galaxy Note 10 Phone (Android)
 - I confirmed that the navigation, header, about section, and contact pages are all readable, scale as intended & are easy to understand
 - Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 
