@@ -121,10 +121,8 @@ h1, h2 {
     text-align: center;
     }
 
-/* Styling for "About" section elements - structure across 3x Divs*/
+/* Styling for "About" section elements - structure across 6x Divs - left, right centre, style & heading*/
 /* Credits: Code adapted from Code Institute Love Running Project */
-
-
 #left-style {
     padding-top: 80px;
     width: 33%;
@@ -175,6 +173,8 @@ hr {
     text-align: right;
 }
 
+/* Style to form a circle from the sub-image center-piece on home page*/
+/* Credits: Code adapted from Code Institute Love Running Project */
 #circle-border {
     width:300px;
     height:300px;
@@ -195,7 +195,8 @@ hr {
     border-width:  2px;
 }
 
-/* Footer Styling*/
+/* Footer Styling - height, text alignment and unordered list elements*/
+/* Credits: Code adapted from Code Institute Love Running Project */
 footer {
     height: 150px;
 }
@@ -215,6 +216,8 @@ footer {
     color:#2382db;
 }
 
+/* Default Gallery section & image styling - for desktop/laptop/larger screens*/
+/* Credits: Code adapted from Code Institute Love Running Project */
 #gallerypictures {
     clear:both;
     line-height: 0;
@@ -231,7 +234,8 @@ footer {
     height: auto;
 }
 
-/* Contact Page*/
+/* Contact Page styling*/
+/* Credits: Code adapted from Code Institute Love Running Project */
 .contact-section {
     clear: left;
     background: url(../css/images/ffmainimage2.png) no-repeat center center;
@@ -240,6 +244,8 @@ footer {
     height: 900px;
 }
 
+/* Contact page - form styling, including multiple input fields and submit button */
+/* Credits: Code adapted from Code Institute Love Running Project */
 .contact-form {
     margin: 150px 10% 0 0;
     color: rgb(0, 0, 0) ;
@@ -297,7 +303,8 @@ footer {
     color: black;
 }
 
-/* Responsiveness & Media Queries*/
+/* Responsiveness & Media Queries for home page key elements for screens up to 1200 pixels in width */
+/* Credits: Code adapted from Code Institute Love Running Project */
 @media screen and (max-width: 1200px) {
     #about-header {
         width: 65%;
@@ -331,10 +338,11 @@ footer {
     }
 }
 
-/* For screens 950px and smaller*/
-
+/* Responsiveness & Media Queries for screens up to 950 pixels in width */
+/* Credits: Code adapted from Code Institute Love Running Project */
 @media screen and (max-width: 950px) {
     
+/* Navigation Bar responsive styling for screens below 950px - float left and adjust margins to improve UX & screen visibility */
     #navigation_bar {
         clear: left;
         float: left;
@@ -343,6 +351,7 @@ footer {
         line-height: 25px;
     }
 
+/* Home page "About" section - key element styling for screens up to 950px */
     #about-header {
         width: 90%;
         height: 1000px;
@@ -362,14 +371,16 @@ footer {
         text-align: center;
         padding: 0 20px;  
 }
-/* Responsive gallery page */
+/* Gallery page responsive styling for screens below 950px - reduce column count to aid visibility */
+/* Credits: Code adapted from Code Institute Love Running Project */
 #gallerypictures {
     column-count: 3;
 }
 
 }
 
-/* For small screen sizes 800px and below */
+/* Media Queries to facilitate Gallery responsiveness for smaller screens up to 800 pixels in width by decreasing column count to 2 */
+/* Credits: Code adapted from Code Institute Love Running Project */
 @media screen and (max-width: 800px) {
     
     #gallerypictures {
@@ -377,9 +388,11 @@ footer {
     }
 }
 
-/* Locations page */
+/* Locations page styling - using CSS Grid to create a positive emotional experience for the user */
 /* Credits: Code adapted from TheCodeNinja CSS Grid tutorial */
 
+/* Style Grid to house Rivers information - names, descrptions & images */
+/* Credits: Code adapted from TheCodeNinja CSS Grid tutorial */
 #rivers{
     display: grid;
     grid-template-columns: 0.5fr 1fr 2.5fr;
@@ -395,6 +408,8 @@ footer {
     padding: 10px;
 }
 
+/* Style Grid to house Lakes information - names, descrptions & images */
+/* Credits: Code adapted from TheCodeNinja CSS Grid tutorial */
 #lakes {
     display: grid;
     grid-template-columns: 0.5fr 1fr 2.5fr;
@@ -410,6 +425,7 @@ footer {
     padding: 10px;
 }
 
+/* Image styling to facilitate positive UX when browsing the locations page - consistency of image size & format */
 .locationimages {
     width:200px;
     border: 1px solid rgb(255, 255, 255);
@@ -434,8 +450,8 @@ footer {
     background-position: center;
 }
 
-/* Responsive design for Locations page - screens below 500 px */
-
+/* Responsive design for Locations page for smaller screens below 500 pixels in width - presents grid content vertically rather than horizontally when screen size reduces sufficiently */
+/* Credits: Code adapted from TheCodeNinja CSS Grid tutorial */
 @media screen and (max-width: 500px) {
     
     #rivers{
