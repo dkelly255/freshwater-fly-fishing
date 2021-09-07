@@ -129,8 +129,10 @@
 ![alt text](assets/css/images/readme/contact.png)
 
  ### Features Left to implement
-- There were several additional features that I would love to be able to add to this site, however as a brand new developer, and as someone new to HTML & CSS I found that I was unfortunately constrained primarily by my level of coding expertise combined with the time constraints in place for the first milestone project submission deadline.
-- However, I am working hard on a daily basis to develop my new HTML & CSS capability which will hopefully soon allow me to be able to develop features such as the below and more:
+
+There were several additional features that I would love to be able to add to this site, however as a brand new developer, and as someone new to HTML & CSS I found that I was constrained primarily by my own coding expertise combined with the time limits in place for the first milestone project submission deadline.
+
+However, I am working hard on a daily basis to develop my HTML & CSS capability and I am confident this will soon allow me to be able to develop features such as the below and more:
 
  - Equipment page:
     - This would be an additional dedicated section of the website to cover the equipment used in the sport, for example:
@@ -151,7 +153,7 @@
         - Casting Techniques - how to learn, how to practice safely, links to instructional videos and teachers/lessons
         - Fly Tying - how to get started creating your own flies, links to videos and lessons
         - Fish spotting - how to visually identify & track target fish, reading/estimating depths, understanding the flys in season for lure selection
-- Catch page:
+- Catches page:
     - This would be a section of the website to cover the different species of fish that can be caught Fly Fishing in Ireland
         - Game Fish - Trout and associated sub-species (Brown/Rainbow/Sea), Salmon, Grayling
         - Coarse Fish - Pike, Carp, Perch
