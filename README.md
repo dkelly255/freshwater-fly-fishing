@@ -148,6 +148,12 @@
         - Casting Techniques - how to learn, how to practice safely, links to instructional videos and teachers/lessons
         - Fly Tying - how to get started creating your own flies, links to videos and lessons
         - Fish spotting - how to visually identify & track target fish, reading/estimating depths, understanding the flys in season for lure selection
+- Catch page:
+    - This would be a section of the website to cover the different species of fish that can be caught Fly Fishing in Ireland
+        - Game Fish - Trout and associated sub-species (Brown/Rainbow/Sea), Salmon, Grayling
+        - Coarse Fish - Pike, Carp, Perch
+        - Sea Fish - Bass, Mackerel, Sunfish, Pollock
+    - It would be possible to include pictures, videos descriptions and examples of the fish characteristics, typical sizes & weight, how to tailor approach for each, where they can be caught and during which seasons etc
 - Freshwater Forum
     - Community/Discussion board where people can sign up to discuss & share experiences, photos, and questions around all aspects of the sport 
     - Including everything from locations, techniques, catches, successes, failures and all other relevant areas
