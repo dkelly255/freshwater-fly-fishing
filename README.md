@@ -160,7 +160,7 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
         - Striking - how to develop reflexes to strike & hook efficiently & reduce  missed strikes
         - Catch & Release - how to practice catch & release fishing if not caught for consumption to aid with sutainable fly fishing
 - Catches page:
-    - This would be a section of the website to cover the different species of fish that can be caught Fly Fishing in Ireland
+    - This would be a section of the website to cover the different species of fish in scope for Fly Fishing in Ireland
         - Game Fish - Trout and associated sub-species (Brown/Rainbow/Sea), Salmon, Grayling
         - Coarse Fish - Pike, Carp, Perch
         - Sea Fish - Bass, Mackerel, Sunfish, Pollock
