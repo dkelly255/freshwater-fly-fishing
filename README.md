@@ -137,20 +137,35 @@
 - Expanding site contents to include Saltwater Fly Fishing 
 
 ## Testing
-- I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari
-- I also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes 
-- I confirmed that the navigation, header, about section, and contact pages are all readable & easy to understand
+- I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari, and also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes
+- Additionally I tested the site on different devices, operating systems and form factors - Desktop & Laptop (Windows) Ipad Tablet (IOS), and Galaxy Note 10 Phone (Android )
+- I confirmed that the navigation, header, about section, and contact pages are all readable, scale as intended & are easy to understand
 - Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 
 ### HTML
 - The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
 
-![alt text](assets/css/images/readme/html_validation.png)
+#### Home Page HTML Validation:
+![alt text](assets/css/images/readme/index_html_validation.png)
+
+#### Locations Page HTML Validation:
+![alt text](assets/css/images/readme/locations_html_validation.png)
+
+#### Gallery Page HTML Validation:
+- One warning was received regarding the Gallery page - however I decided to continue without adding another heading to the section however, as the user can clearly see they are on the Gallery page from the navigation bar highlight for the selected page and I felt the text would detract from the User Experience by breaking the pictorial flow of the gallery page
+
+![alt text](assets/css/images/readme/gallery_html_validation.png)
+
+#### Contact Page HTML Validation:
+![alt text](assets/css/images/readme/contact_html_validation.png)
 
 ### CSS
-- The CSS Ji3saw Validator was used to confirm that the CSS code was error free & functioned as expected
+- The CSS Jigsaw Validator was used to confirm that the CSS code was error free & functioned as expected.
+- As my CSS Code was contained in a single stylesheet (style.css) - I was able to validate the full website's styling via one direct input
+- One generic warning was present in relation to importing stylesheets which was not relevant for my validation
 
 ![alt text](assets/css/images/readme/css_validation.png)
+
 
 ### Accessibility
 - Generically I used the DevTools suite, and Lighthouse to audit the site's accessibility and found the site had several accessiblity deficiencies in the early stages of development. 
