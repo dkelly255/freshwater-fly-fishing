@@ -129,6 +129,9 @@
 ![alt text](assets/css/images/readme/contact.png)
 
  ### Features Left to implement
+- There were several additional features that I would love to be able to add to this site, however as a brand new developer, and as someone new to HTML & CSS I found that I was unfortunately constrained primarily by my level of coding expertise combined with the time constraints in place for the first milestone project submission deadline.
+- However, I am working hard on a daily basis to develop my new HTML & CSS capability which will hopefully soon allow me to be able to develop features such as the below and more:
+
  - Equipment page:
     - This would be an additional dedicated section of the website to cover the equipment used in the sport, for example:
         - Rods: Sizes, guages, selection depending on user attributes, venue, target species
