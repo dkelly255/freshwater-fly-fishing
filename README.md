@@ -85,6 +85,10 @@
 
 ## Features
 
+### Generic Features
+- In line with the principles of effective User Experience (UX) I decided to use custom font functionality to aid with the site's presentation. After consultation with the options available through fontawesome.com I chose the Ubnutu font to aid readability & help promote a positive emotional experience for the external users of the site
+- I have also adhered to the UX principles in ensuring consistency of presentation, layout & formatting throughout each page of the site, where the user can get accusomted to the consistent way the information is presented & laid out
+
 ### Navigation Bar
 - The Navigation bar is featured on all four pages of the site, and is identical on each page for consistency and  ease of navigation . 
 - It is fully responsive, and includes links to the Home page, Locations, Gallery, and Contact pages
@@ -112,7 +116,7 @@
 ![alt text](assets/css/images/readme/locations.png)
 
 ### Footer
-- The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. The links will open to a new tab to allow easy navigation for the user.
+- The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. I have taken time & care to ensure that the links will only open to a new tab to adhere to the principles of effective UX, and allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![alt text](assets/css/images/readme/footer.png)
