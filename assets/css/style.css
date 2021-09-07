@@ -26,7 +26,6 @@ h1, h2 {
 
 /* Style Main Logo */
 /* Credits: Code adapted from Code Institute Love Running Project */
-
 #main_logo {
     float: left;
     margin-left: 30px;
@@ -35,7 +34,6 @@ h1, h2 {
 
 /* Styling for Navigation Bar & associated elements*/
 /* Credits: Code adapted from Code Institute Love Running Project */
-
 #navigation_bar {
     font-size:115%;
     line-height: 75px;
