@@ -136,7 +136,7 @@
 
  ### Features Left to implement
 
-There were several additional features that I would love to be able to add to this site, however as a brand new developer, and as someone new to HTML & CSS I found that I was constrained primarily by my own coding expertise combined with the time limits in place for the first milestone project submission deadline.
+There were several additional features and scope that I would be very keen to add to the site, however as a brand new developer, and as someone new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, and so these features will have to be out of scope for this release of the website.
 
 However, I am working hard on a daily basis to develop my HTML & CSS capability and I am confident this will soon allow me to be able to develop features such as the below and more:
 
@@ -257,9 +257,9 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 ### Content
 
 - I used the lessons learned during the Code Institute [Love Running](https://github.com/dkelly255/love-running) project to help with the structure for Freshwater Fishing
-- In all applicable locations throughout the HTML & CSS codes I have included credits in the comments where code from other sources such as [Love Running](https://github.com/dkelly255/love-running), or The Net Ninja has been used and adapted for this website and this can be browsed in detail in the HTML & CSS files
+- In all applicable locations throughout the HTML & CSS codes I have included credits in the comments where code from other sources such as [Love Running](https://github.com/dkelly255/love-running), or [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) has been used and adapted for this website and this can be browsed in detail in the HTML & CSS files
 - For example - The code to make the social media links for the footer was initially taken from the Code Institute [Love Running](https://github.com/dkelly255/love-running) project, and was updated to fit the look & feel of Freshwater Fly Fishing
-- The code for the responsive grid on the locations page was taken from The Net Ninja's CSS grid tutorial, and adapted to display two grids to contain rivers & lakes, images, and descriptions - this is also clearly labelled in the CSS & HTML comments
+- The code for the responsive grid on the locations page was taken from [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) Github [CSS grid tutorial](https://github.com/iamshaunjp/css-grid-playlist), and adapted to display two grids to contain rivers & lakes, images, and descriptions - this is also clearly labelled in the CSS & HTML comments
 
 
 #### Locations Page
