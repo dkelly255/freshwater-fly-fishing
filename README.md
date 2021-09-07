@@ -227,7 +227,7 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
 
 
 ### Resolved Bugs
-- Initially there were unexplained hyphens present between my social media linksin my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
+- Initially there were unexplained hyphens present between my social media links in my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
 - The Text overlay on the Home Page Main Image was not travelling correctly with responsive screen sizes - this was due to a missing absolute position attribute in the CSS code and was resolved by adding the required attribute
 
 ### Unresolved Bugs
