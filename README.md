@@ -249,7 +249,7 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 ### Content
 
 - I used the lessons learned during the Code Institute [Love Running](https://github.com/dkelly255/love-running) project to help with the structure for Freshwater Fishing
-- In several locations throughout the HTML & CSS codes I have included credits in the comments where code from [Love Running](https://github.com/dkelly255/love-running) has been used and adapted for this website
+- In all applicable locations throughout the HTML & CSS codes I have included credits in the comments where code from other sources such as [Love Running](https://github.com/dkelly255/love-running), or The Net Ninja has been used and adapted for this website and this can be browsed in detail in the HTML & CSS files
 - For example - The code to make the social media links for the footer was initially taken from the Code Institute [Love Running](https://github.com/dkelly255/love-running) project, and was updated to fit the look & feel of Freshwater Fly Fishing
 - The code for the responsive grid on the locations page was taken from The Net Ninja's CSS grid tutorial, and adapted to display two grids to contain rivers & lakes, images, and descriptions - this is also clearly labelled in the CSS & HTML comments
 
