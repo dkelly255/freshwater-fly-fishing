@@ -18,7 +18,7 @@
 
 
 ### Wireframes
-- I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
+- In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
 
 #### Home Page & Nav Bar Original Concepts:
 ![alt text](assets/css/images/readme/wf_home.png)
