@@ -157,6 +157,7 @@
 - Freshwater Forum
     - Community/Discussion board where people can sign up to discuss & share experiences, photos, and questions around all aspects of the sport 
     - Including everything from locations, techniques, catches, successes, failures and all other relevant areas
+    - To function as a dedicated specialist social network orientated around the sport of Fly Fishing
 - Expanding site contents/developing a sister-site focused on the promotion of Saltwater Fly Fishing 
     - Fly fishing is currently primarily practiced in Freshwater in Ireland. The equipment design has been established around the generally smaller size and weight of fish in Freshwater relative to those found in saltwater
     - However recreational saltwater flyfishing is an area that has potential for growth in future - there are many species of saltwater fish that can also be in scope for flyfishing, and this can be a greatly expanding market with huge potential in future years
@@ -221,7 +222,7 @@
 
 
 ### Resolved Bugs
-- Initially there were unexplained hypens present between my social media linksin my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
+- Initially there were unexplained hyphens present between my social media linksin my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
 - The Text overlay on the Home Page Main Image was not travelling correctly with responsive screen sizes - this was due to a missing absolute position attribute in the CSS code and was resolved by adding the required attribute
 
 ### Unresolved Bugs
