@@ -116,8 +116,10 @@
 ![alt text](assets/css/images/readme/locations.png)
 
 ### Footer
-- The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. I have taken time & care to ensure that the links will only open to a new tab to adhere to the principles of effective UX, and allow easy navigation for the user.
+- The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. 
+- I have ensured that links will only open to a new tab using the "noopener" attribute to adhere to the principles of effective UX, and allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media
+
 
 ![alt text](assets/css/images/readme/footer.png)
 
@@ -259,6 +261,7 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
 - For example - The code to make the social media links for the footer was initially taken from the Code Institute [Love Running](https://github.com/dkelly255/love-running) project, and was updated to fit the look & feel of Freshwater Fly Fishing
 - The code for the responsive grid on the locations page was taken from The Net Ninja's CSS grid tutorial, and adapted to display two grids to contain rivers & lakes, images, and descriptions - this is also clearly labelled in the CSS & HTML comments
 
+
 #### Locations Page
 
 ##### Images
@@ -295,6 +298,13 @@ The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.gith
   10. gallery10 - [Photo](https://www.pexels.com/photo/landscape-photography-of-body-of-water-near-mountains-1192662/) by Oziel Gómez from Pexels
   11. gallery11 - [Photo](https://www.pexels.com/photo/man-in-brown-jacket-standing-on-river-6970952/)  by Kathryn Archibald from Pexels
   12. gallery12 - [Photo](https://www.pexels.com/photo/wood-fishing-landscape-water-6590545/) by Greg from Pexels
+
+  #### Hero Image
+- Fly Fishing Wallpaper HD [Hero image](https://cdn.wallpapersafari.com/54/62/r2HaQg.jpg) sourced from wallpapersafari.com (No attribution required)
+
+#### Home Page
+- About us centerpiece [image](https://www.flyfisherman.com/editorial/foster-care-flyfishing-kayla-lockhart/361701) sourced from Kayla Lockhart flyfisherman.com
+
 
   ### Media
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
