@@ -43,7 +43,7 @@
 
     - #### [Wireframes](https://github.com/dkelly255/freshwater-fly-fishing#wireframes)
 
-- ### [Features](https://github.com/dkelly255/freshwater-fly-fishing#features)
+- ### [Features](https://github.com/dkelly255/freshwater-fly-fishing#features-1)
 
     - #### [Navigation Bar](https://github.com/dkelly255/freshwater-fly-fishing#navigation-bar-1)
 
@@ -63,7 +63,7 @@
 
 - ### [Testing](https://github.com/dkelly255/freshwater-fly-fishing#testing-1)
 
-    - #### [Generic Testing](https://github.com/dkelly255/freshwater-fly-fishing#testing-1)
+    - #### [Generic Testing](https://github.com/dkelly255/freshwater-fly-fishing#generic-testing)
 
     - #### [HTML Validation](https://github.com/dkelly255/freshwater-fly-fishing#html)
 
@@ -157,6 +157,7 @@
 
 
 ## Testing
+### Generic Testing
 - I completed testing of the website pages in multiple broswers: Chrome, Firefox, Edge, and Safari, and also used DevTools to confirm that the project is responsive, functional and aesthetically pleasing on all standard screen sizes
 - Additionally I tested the site on different devices, operating systems and form factors - Desktop & Laptop (Windows) Ipad Tablet (IOS), and Galaxy Note 10 Phone (Android )
 - I confirmed that the navigation, header, about section, and contact pages are all readable, scale as intended & are easy to understand
@@ -229,6 +230,9 @@
 The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.github.io/freshwater-fly-fishing/)
 
 ## Credits
+
+- There were several sources from which I dervied content, ideas, images and code to help build the site. 
+- As a new developer this was my first HTML/CSS project - and I found the Code Institute's instructional videos and lessons on HTML/CSS and the [Love Running](https://github.com/dkelly255/love-running) training project to be particularly beneficial - I would not have been able to prepare this project without these sources
 
 ### Content
 
