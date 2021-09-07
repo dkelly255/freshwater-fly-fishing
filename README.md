@@ -130,21 +130,24 @@
 
  ### Features Left to implement
  - Equipment page:
-    - Overview of the equipment used:
+    - This would be an additional dedicated section of the website to cover the equipment used in the sport, for example:
         - Rods: Sizes, guages, selection depending on user attributes, venue, target species
         - Reels: types of reels, when to use, why use each type
         - Lines: Floating vs sinking, when to use, key considerations, visibility 
         - Flies: Wet, Dry, Lure, Stream, etc - when to use, why to use
-    - When to use, why to use, how to select, and where to purchase
-    - Including descriptions, images, articles and videos around each category
+    - For each category of equipment, things to cover would include when to use, why to use, how to select etc 
+    - Additionally - it would then be possible to begin adding links to where to purchase the equipment, recommended suppliers, user reviews etc
+    - It would also be possible to include descriptions, images, articles and videos around each category
  - Attire page: 
-    - Overview of clothing & attire used - Waders, Jackets, Hats, Footwear, Vests
-    - When to use, how to select, and where to purchase
-    - Including descriptions, images, articles and videos around each category
+    - This would be an additional dedicated section of the website to cover the attire used to enable the sport comfortably, effectively, and safely for example:
+        - Overview of clothing & attire used - Waders, Jackets, Hats, Footwear, Vests, Polarising Glasses
+        - When to use, how to select, and where to purchase
+        - Including descriptions, images, articles and videos around each category
  - Skills page:
-    - Overview of the unique techniques & skills of Fly Fishing
+    - This would be an additional dedicated section of the website to cover - Overview of the unique techniques & skills of Fly Fishing, for example:
         - Casting Techniques - how to learn, how to practice safely, links to instructional videos and teachers/lessons
         - Fly Tying - how to get started creating your own flies, links to videos and lessons
+        - Fish spotting - how to visually identify & track target fish, reading/estimating depths, understanding the flys in season for lure selection
 - Freshwater Forum
     - Community/Discussion board where people can sign up to discuss & share experiences, photos, and questions around all aspects of the sport 
     - Including everything from locations, techniques, catches, successes, failures and all other relevant areas
