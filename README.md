@@ -158,7 +158,7 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
         - Fly Tying - how to get started creating your own flies, links to videos and lessons
         - Fish spotting - how to visually identify & track target fish, reading/estimating depths, understanding the flys in season for lure selection
         - Striking - how to develop reflexes to strike & hook efficiently & reduce  missed strikes
-        - Catch & Release - how to practice catch & release fishing if not intending to consume the catch to aid with sutainable fly fishing
+        - Catch & Release - how to practice catch & release fishing if not caught for consumption to aid with sutainable fly fishing
 - Catches page:
     - This would be a section of the website to cover the different species of fish that can be caught Fly Fishing in Ireland
         - Game Fish - Trout and associated sub-species (Brown/Rainbow/Sea), Salmon, Grayling
