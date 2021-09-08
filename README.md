@@ -1,105 +1,128 @@
 # Freshwater-Fly-Fishing
 
 ## Introduction
-
-## UX
-### Strategy
-- #### Concept
-    - Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland - this is the Site Owner's Goal
-    - The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
-    - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
+- Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland - this is the Site Owner's Goal
+- The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
+- The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
 
 ![alt text](readme/responsive1.png)
-
+## UX
+### Strategy
+- The strategic aim of the site is to provide an introduction to the Sport of Fly Fishing in Ireland, for both new and experienced users
+    
 - #### User Stories
     - As a user of the site I would like to be able to:
         - Learn about why Fly Fishing can be an enjoyable experience
         - Identify some of the locations where Fly Fishing can be practised in Ireland
         - See pictures to understand Fly Fishing, the equipment and the environment in which it can be practised
         - Contact the Freshwater Fly Fishing website owners to ask any questions or queries related to the sport in Ireland
+
 ### Scope
+- The Strategy UX plane helped to inform the Scope plane of my website's UX, I wanted to ensure the site would have sufficient features to actualise the strategic aim by including content both viusal and textual that addresses the user stories
+- The site's scope at a minimum should cover some of the benefits of Fly Fishing as a hobby, some images to help a user visually internalise aspects of the sport, some key locations where it can be practiced, and a contact form for getting in touch with the site owner with any queries 
+- As detailed in the features section, I have prioritised the original possible list of site scope into "existing features" and "features yet to implement" - with the former containing the final features of the live site in the spirit of ensuring a Minimum Viable Product (MVP) that would meet project deadlines 
 
 ### Structure
+- With the website's initial Strategy and Scope in place, I was then able to move on to beginning to structure the content in a way that would enable the most optimal UX
+- I chose a simple four page structure to house & demarcate the site's content, with a page for each key section of the site:
+    - Home (index.html)
+    - Locations (locations.html)
+    - Gallery (gallery.html)
+    - Contact (contact.html)
+- I would also then have several key structural elements that would exist on all four pages - helping link the site together, and allowing the user traverse the site structure intuitively and efficiently - these include the Navigation Bar, and the Footer - both detailed in the existing features section
 
 ### Skeleton
-    - In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
+- Having addressed the Structure Plane, I then prepared some simple wireframes (using Microsoft Powerpoint) to design a skeleton of how the site would look, and how the structure would be implemented 
+- This also acted as a control to keep the project focused and on track during the coding process, helping avoid scope creep where possible - and to start seeing how the user would navigate through the information and features
 
-#### Home Page & Nav Bar Original Concepts:
+#### Wireframes - Home Page & Nav Bar Original Concept Design:
 ![alt text](readme/wf_home.png)
 
-#### Locations Page Original Concept:
+#### Wireframes - Locations Page Original Concept Design:
 ![alt text](readme/wf_locations.png)
 
-#### Gallery Original Concept:
+#### Wireframes - Gallery Original Concept Design:
 ![alt text](readme/wf_gallery.png)
 
-#### Contact Page Original Concept:
+#### Wireframes - Contact Page Original Concept Design:
 ![alt text](readme/wf_contact.png)
 
 ### Surface
+- The first four Planes of UX enabled the Surface Plane to take shape in terms of finalising the look and feel of the website in terms of color schemes, typography, and imagery:
 
-#### Color scheme
-describe color scheme
-cooler - will show graphical etc
+- #### Color scheme
+    - I used the [Coolors](coolors.com) color consultation website to generate a simple but effective [color palette](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) to underpin the content of the site
+    - This consists of [Green Blue](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#0A69C2) text and borders against a [Platinum](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#ECECEA) backdrop to ensure sufficient contrast
 
-#### Typography
-list fonts / fontawesome - describe any fonts used Google fonts etc
-link to each font to describe each
+![alt text](readme/coolers.png)
+
+- #### Typography
+    - I chose the [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu#about) font to aid readability & help promote a positive emotional response from the external users of the site.  
+    - The recommended pairings from Google Fonts for [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu#about) were [Oxygen](https://fonts.google.com/specimen/Oxygen?query=oxygen#about) which works well in all graphical user interfaces, desktops and devices, and also [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto#about) which features friendly and open curves
+    - I also used [Fontawesome](https://fontawesome.com/) to embed several icons in the site to help emphasise important elements of the site, and to help with generating a positive emotional response with the site users
+
+![alt text](readme/fonts.png)
+
+- #### Imagery
+    - I have used imagery throughout the site to help with achieving the strategic aims of the website - the hero image is used on all four pages of the site and helps grab the users initial attention before allowing them focus on the content
+    - The locations and gallery pages contain imagery where appropriate to help inform the user visually on locations where Fly Fishing can be practiced, as well as for new users to see pictures of the type of scenes they can experience from the Sport
+    - At all times I have ensured that foreground information and content is never distracted by this background imagery by using opacity setting on the color palettes. 
+    - The imagery is fully detailed in the Credits section, and is primarily sourced from both [Pexels](pexel.com) and [Pixabay](pixabay.com)
+
 
 ## Features
 
-### Generic Features
-- In line with the principles of effective User Experience (UX) I decided to use custom font functionality to aid with the site's presentation. After consultation with the options available through fontawesome.com I chose the Ubnutu font to aid readability & help promote a positive emotional experience for the external users of the site
-- I have also adhered to the UX principles in ensuring consistency of presentation, layout & formatting throughout each page of the site, where the user can get accusomted to the consistent way the information is presented & laid out
+### Existing Features
 
-### Navigation Bar
-- The Navigation bar is featured on all four pages of the site, and is identical on each page for consistency and  ease of navigation . 
-- It is fully responsive, and includes links to the Home page, Locations, Gallery, and Contact pages
-- This section will allow the site user to navigate quickly and easily from page to page across all device form-factors without having to use the “back” button to revert to previous pages
+- #### Navigation Bar
+    - The Navigation bar is featured on all four pages of the site, and is identical on each page for consistency and  ease of navigation . 
+    - It is fully responsive, and includes links to the Home page, Locations, Gallery, and Contact pages
+    - This section will allow the site user to navigate quickly and easily from page to page across all device form-factors without having to use the “back” button to revert to previous pages
 
 ![alt text](readme/navbar.png)
 
-### Home Page Image
-- The home page includes a photograph with Text overlay to welcome the user to the site upon first arrival
-- This section welcomes the user with an eye-catching animation to grab their attention
+- #### Home Page 
+    - The home page includes a photograph with Text overlay to welcome the user to the site upon first arrival
+    - This section welcomes the user with an eye-catching animation to grab their attention
 
 ![alt text](readme/homepage1.png)
 
-### "About Us" Section
-- The About us section will display for the user a selection of the reasons people wish to participate in the Sport of Fly Fishing
-- The User will see some of the benefits of Fly Fishing and this should help encourage the user to participate in the sport
+- #### "About Freshwater" Section
+    - The About section displays for the user a selection of the reasons people wish to participate in the Sport of Fly Fishing
+    - The User will see some of the benefits of Fly Fishing and this should help encourage the user to participate in the sport
 
 ![alt text](readme/about.png)
 
-### Locations Page
-- The Locations Page will contain details of the locations where people can participate in the Sport of Fly Fishing across Ireland
-- The User will see a visual map and a key of the venues according to their nature – rivers and lakes.
-- This should help inform the user about where they can go to practise the skills and learn how to Fly Fish
+- #### Locations Page
+    - The Locations Page contains details of the locations where people can participate in the Sport of Fly Fishing across Ireland
+    - The User will see key venues grouped according to their nature across rivers and lakes, helping inform the user about where they can go to practise the skills and learn how to Fly Fish
 
 ![alt text](readme/locations.png)
 
-### Footer
-- The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. 
-- I have ensured that links will only open to a new tab using the "noopener" attribute to adhere to the principles of effective UX, and allow easy navigation for the user.
-- The footer is valuable to the user as it encourages them to keep connected via social media
+- #### Footer
+    - The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. 
+    - I have ensured that links will only open to a new tab using the "noopener" attribute and allows efficient navigation for the user.
+    - The footer is valuable to the user as it encourages them to keep connected via social media
 
 
 ![alt text](readme/footer.png)
 
-### Gallery
-- The gallery will provide the user with supporting images to see some examples of Fly Fishing in action.
-- This section is valuable to the user as they will be able to easily internalise visually the experience of participating in the sport 
+- #### Gallery
+    - The gallery provides the user with supporting images to see some examples of Fly Fishing in action.
+    - This section is valuable to the user as they will be able to easily internalise visually the experience of participating in the sport 
 
 ![alt text](readme/gallery.png)
 
-### Contact Page
- - This page will allow the user to contact Freshwater Fly Fishing with any queries they may have in relation to the Sport. The user will be asked to submit their full name and address, and will be allowed a free-form text box in which they can detail their question (1000 character limit)
+- #### Contact Page
+    - This page allows the user to contact Freshwater Fly Fishing with any queries they may have in relation to the Sport.
+    - The user will be asked to submit their full name and address, and will be allowed a free-form text box in which they can detail their question (1000 character limit)
 
 ![alt text](readme/contact.png)
 
  ### Features Left to implement
 
-There were several additional features and scope that I would be very keen to add to the site, however being new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, and so these features will have to be out of scope for this release of the website.
+- There were several additional features and scope that could be added to the site, however were deprioritised during the planning process 
+- Being new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, so these features are out of scope for this release.
 
 However, as I develop my HTML & CSS capability I am confident this will soon allow me to be able to develop features such as the below and more:
 
@@ -146,8 +169,18 @@ However, as I develop my HTML & CSS capability I am confident this will soon all
 - I confirmed that the navigation, header, about section, and contact pages are all readable, scale as intended & are easy to understand
 - Testing has also been completed to confirm that the contact form works correctly, that required fields are specified, and that the email field will only accept an email - and also that the submit button works
 
+### Contrast Testing
+- During the final stages of testing the Accessibility audit on DevTools had flagged a contrast ratio warning of 3.54(less than the desired 4.50) between the original background and text colors detailed on the devtool screenshot below 
+
+![alt text](readme/contrast_before.png)
+
+- To resolve this, as detailed in the UX section, I used the [Coolors](coolors.com) color consultation website to generate a [color palette](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) consisting of [Green Blue](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#0A69C2) text and borders against a [Platinum](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#ECECEA) backdrop to ensure sufficient contrast
+- This improved the contrast score beyond the minimum 4.50 all the way up to 4.91 per the devtools accessbility audit screenshot below
+
+- ![alt text](readme/contrast_after.png)
+
 ### HTML
-- The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
+- During the testing phase I used the W3C Validator to confirm that all HTML code was error free & functioned as expected
 
 #### Home Page HTML Validation:
 ![alt text](readme/index_html_validation.png)
@@ -156,7 +189,7 @@ However, as I develop my HTML & CSS capability I am confident this will soon all
 ![alt text](readme/locations_html_validation.png)
 
 #### Gallery Page HTML Validation:
-- One warning was received regarding the Gallery page - however I decided to continue without adding another heading to the section however, as the user can clearly see they are on the Gallery page from the navigation bar highlight for the selected page and I felt the text would detract from the User Experience by breaking the pictorial flow of the gallery page
+- A warning was received regarding the Gallery page - however I decided to continue without adding another heading to the section however, as the user can clearly see they are on the Gallery page from the navigation bar highlight for the selected page and I felt the text would detract from the User Experience by breaking the pictorial flow of the gallery page
 
 ![alt text](readme/gallery_html_validation.png)
 
