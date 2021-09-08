@@ -7,7 +7,7 @@
 - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
 
 
-![alt text](assets/css/images/readme/responsive1.png)
+![alt text](readme/responsive1.png)
 
 ### User Stories
 - As a user of the site I would like to be able to:
@@ -21,16 +21,16 @@
 - In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
 
 #### Home Page & Nav Bar Original Concepts:
-![alt text](assets/css/images/readme/wf_home.png)
+![alt text](readme/wf_home.png)
 
 #### Locations Page Original Concept:
-![alt text](assets/css/images/readme/wf_locations.png)
+![alt text](readme/wf_locations.png)
 
 #### Gallery Original Concept:
-![alt text](assets/css/images/readme/wf_gallery.png)
+![alt text](readme/wf_gallery.png)
 
 #### Contact Page Original Concept:
-![alt text](assets/css/images/readme/wf_contact.png)
+![alt text](readme/wf_contact.png)
 
 
 ## Table of Contents
@@ -94,26 +94,26 @@
 - It is fully responsive, and includes links to the Home page, Locations, Gallery, and Contact pages
 - This section will allow the site user to navigate quickly and easily from page to page across all device form-factors without having to use the “back” button to revert to previous pages
 
-![alt text](assets/css/images/readme/navbar.png)
+![alt text](readme/navbar.png)
 
 ### Home Page Image
 - The home page includes a photograph with Text overlay to welcome the user to the site upon first arrival
 - This section welcomes the user with an eye-catching animation to grab their attention
 
-![alt text](assets/css/images/readme/homepage1.png)
+![alt text](readme/homepage1.png)
 
 ### "About Us" Section
 - The About us section will display for the user a selection of the reasons people wish to participate in the Sport of Fly Fishing
 - The User will see some of the benefits of Fly Fishing and this should help encourage the user to participate in the sport
 
-![alt text](assets/css/images/readme/about.png)
+![alt text](readme/about.png)
 
 ### Locations Page
 - The Locations Page will contain details of the locations where people can participate in the Sport of Fly Fishing across Ireland
 - The User will see a visual map and a key of the venues according to their nature – rivers and lakes.
 - This should help inform the user about where they can go to practise the skills and learn how to Fly Fish
 
-![alt text](assets/css/images/readme/locations.png)
+![alt text](readme/locations.png)
 
 ### Footer
 - The footer section includes links to the relevant social media sites for Freshwater Fly Fishing. 
@@ -121,18 +121,18 @@
 - The footer is valuable to the user as it encourages them to keep connected via social media
 
 
-![alt text](assets/css/images/readme/footer.png)
+![alt text](readme/footer.png)
 
 ### Gallery
 - The gallery will provide the user with supporting images to see some examples of Fly Fishing in action.
 - This section is valuable to the user as they will be able to easily internalise visually the experience of participating in the sport 
 
-![alt text](assets/css/images/readme/gallery.png)
+![alt text](readme/gallery.png)
 
 ### Contact Page
  - This page will allow the user to contact Freshwater Fly Fishing with any queries they may have in relation to the Sport. The user will be asked to submit their full name and address, and will be allowed a free-form text box in which they can detail their question (1000 character limit)
 
-![alt text](assets/css/images/readme/contact.png)
+![alt text](readme/contact.png)
 
  ### Features Left to implement
 
@@ -187,25 +187,25 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
 - The W3C Validator was used to confirm that all HTML code was error free & functioned as expected
 
 #### Home Page HTML Validation:
-![alt text](assets/css/images/readme/index_html_validation.png)
+![alt text](readme/index_html_validation.png)
 
 #### Locations Page HTML Validation:
-![alt text](assets/css/images/readme/locations_html_validation.png)
+![alt text](readme/locations_html_validation.png)
 
 #### Gallery Page HTML Validation:
 - One warning was received regarding the Gallery page - however I decided to continue without adding another heading to the section however, as the user can clearly see they are on the Gallery page from the navigation bar highlight for the selected page and I felt the text would detract from the User Experience by breaking the pictorial flow of the gallery page
 
-![alt text](assets/css/images/readme/gallery_html_validation.png)
+![alt text](readme/gallery_html_validation.png)
 
 #### Contact Page HTML Validation:
-![alt text](assets/css/images/readme/contact_html_validation.png)
+![alt text](readme/contact_html_validation.png)
 
 ### CSS
 - The CSS Jigsaw Validator was used to confirm that the CSS code was error free & functioned as expected.
 - As my CSS Code was contained in a single stylesheet (style.css) - I was able to validate the full website's styling via one direct input
 - One generic warning was present in relation to importing stylesheets which was not relevant for my validation
 
-![alt text](assets/css/images/readme/css_validation.png)
+![alt text](readme/css_validation.png)
 
 
 ### Accessibility
@@ -213,23 +213,23 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
 - The most common issues were, firstly missing alt texts on the images on the gallery/locations pages, which I corrected by ensuring all images throughout the site had meaningful alt text descriptions... and secondly, inappropriately large image file sizes, which I was able to correct by redownloading images from source websites in smaller sizes, and then running the smaller baseline images through compression software at TinyPNG.com
 
 #### Home Page Lighthouse Scores:
-![alt text](assets/css/images/readme/home_lighthouse.png)
+![alt text](readme/home_lighthouse.png)
 
 #### Locations Page Lighthouse Scores:
-![alt text](assets/css/images/readme/locations_lighthouse.png)
+![alt text](readme/locations_lighthouse.png)
 
 #### Gallery Page Lighthouse (Initial Scores):
 - Initially I found the gallery page had very low performance scores on Lighthouse - I was able to resolve this by using smaller renders of the same images to improve the score
 
-![alt text](assets/css/images/readme/gallery_performance1.png)
+![alt text](readme/gallery_performance1.png)
 
 #### Gallery Page Lighthouse (Updated Scores):
 - The updated accessibility score is shown below with a much improved performance metric following my changes above
-![alt text](assets/css/images/readme/gallery_performance2.png)
+![alt text](readme/gallery_performance2.png)
 
 
 #### Contact Page Lighthouse Scores:
-![alt text](assets/css/images/readme/contact_lighthouse.png)
+![alt text](readme/contact_lighthouse.png)
 
 
 

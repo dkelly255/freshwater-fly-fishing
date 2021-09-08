@@ -67,7 +67,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url('../css/images/ffmainimage2.png') no-repeat center center;
+    background: url('../images/ffmainimage2.png') no-repeat center center;
 
 /* Animate hero-image zoom effect on home page*/
 /* Credits: Code adapted from Code Institute Love Running Project */
@@ -185,7 +185,7 @@ hr {
 }
 
 #circle-inner-image {
-    background: url('../css/images/ffsubimage1resized.png') no-repeat center center;
+    background: url('../images/ffsubimage1resized.png') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     border-style:solid;
@@ -236,7 +236,7 @@ footer {
 /* Credits: Code adapted from Code Institute Love Running Project */
 .contact-section {
     clear: left;
-    background: url(../css/images/ffmainimage2.png) no-repeat center center;
+    background: url(../images/ffmainimage2.png) no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -443,7 +443,7 @@ footer {
 
 .location-section {
     clear: left;
-    background: url(../css/images/ffmainimage2.png) no-repeat center center;
+    background: url(../images/ffmainimage2.png) no-repeat center center;
     background-size: cover;
     background-position: center;
 }
