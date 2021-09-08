@@ -68,6 +68,9 @@
     - The locations and gallery pages contain imagery where appropriate to help inform the user visually on locations where Fly Fishing can be practiced, as well as for new users to see pictures of the type of scenes they can experience from the Sport
     - At all times I have ensured that foreground information and content is never distracted by this background imagery by using opacity setting on the color palettes. 
     - The imagery is fully detailed in the Credits section, and is primarily sourced from both [Pexels](pexel.com) and [Pixabay](pixabay.com)
+    - I have also added a favicon image to the top of all the site's pages via the head element of the HTML to help with the User Experience & create a professional feel when browsing
+
+![alt text](readme/favicon_addition.png)
 
 
 ## Features
@@ -121,10 +124,9 @@
 
  ### Features Left to implement
 
-- There were several additional features and scope that could be added to the site, however were deprioritised during the planning process 
-- Being new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, so these features are out of scope for this release.
-
-However, as I develop my HTML & CSS capability I am confident this will soon allow me to be able to develop features such as the below and more:
+- There were several additional features and scope that could potentially have been added to the site, however were deprioritised during the planning process 
+- Being new to HTML & CSS I was constrained primarily by my own technical coding expertise, combined with the first milestone project submission deadline time limits
+- So whilst these features are out of scope for this release, as I begin to develop HTML/CSS capability I am confident this will soon allow me to be able to develop features including the below:
 
  - Equipment page:
     - This would be an additional dedicated section of the website to cover the equipment used in the sport, for example:
@@ -179,7 +181,7 @@ However, as I develop my HTML & CSS capability I am confident this will soon all
 
 - ![alt text](readme/contrast_after.png)
 
-### HTML
+### HTML Testing
 - During the testing phase I used the W3C Validator to confirm that all HTML code was error free & functioned as expected
 
 #### Home Page HTML Validation:
@@ -196,7 +198,7 @@ However, as I develop my HTML & CSS capability I am confident this will soon all
 #### Contact Page HTML Validation:
 ![alt text](readme/contact_html_validation.png)
 
-### CSS
+### CSS Testing
 - The CSS Jigsaw Validator was used to confirm that the CSS code was error free & functioned as expected.
 - As my CSS Code was contained in a single stylesheet (style.css) - I was able to validate the full website's styling via one direct input
 - One generic warning was present in relation to importing stylesheets which was not relevant for my validation
@@ -204,7 +206,7 @@ However, as I develop my HTML & CSS capability I am confident this will soon all
 ![alt text](readme/css_validation.png)
 
 
-### Accessibility
+### Accessibility Testing
 - Generically I used the DevTools suite, and Lighthouse to audit the site's accessibility and found the site had several accessiblity deficiencies in the early stages of development. 
 - The most common issues were, firstly missing alt texts on the images on the gallery/locations pages, which I corrected by ensuring all images throughout the site had meaningful alt text descriptions... and secondly, inappropriately large image file sizes, which I was able to correct by redownloading images from source websites in smaller sizes, and then running the smaller baseline images through compression software at TinyPNG.com
 
@@ -311,5 +313,5 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
 ### Media
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
 - The site fonts were taken from [Google Fonts](https://fonts.google.com/)
-- Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
-- All descriptions of Rivers & Lakes were sourced from wikipedia.com
+- All Icons, including the Favicon used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
+- All descriptions of Rivers & Lakes were sourced from [Wikipedia](wikipedia.com)
