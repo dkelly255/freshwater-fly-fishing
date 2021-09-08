@@ -1,31 +1,28 @@
 # Freshwater-Fly-Fishing
 
 ## Introduction
-### Concept
-- Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland - this is the Site Owner's Goal
-- The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
-- The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
+
+## UX
+### Strategy
+- #### Concept
+    - Freshwater Fly Fishing is a site that aims to help introduce people to the Sport of Fly Fishing in Ireland - this is the Site Owner's Goal
+    - The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
+    - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
 
 ![alt text](readme/responsive1.png)
 
-### User Stories
-- As a user of the site I would like to be able to:
-    - Learn about why Fly Fishing can be an enjoyable experience
-    - Identify some of the locations where Fly Fishing can be practised in Ireland
-    - See pictures to understand Fly Fishing, the equipment and the environment in which it can be practised
-    - Contact the Freshwater Fly Fishing website owners to ask any questions or queries related to the sport in Ireland
+- #### User Stories
+    - As a user of the site I would like to be able to:
+        - Learn about why Fly Fishing can be an enjoyable experience
+        - Identify some of the locations where Fly Fishing can be practised in Ireland
+        - See pictures to understand Fly Fishing, the equipment and the environment in which it can be practised
+        - Contact the Freshwater Fly Fishing website owners to ask any questions or queries related to the sport in Ireland
+### Scope
 
-## UX
-### Color scheme
-describe color scheme
-cooler - will show graphical etc
+### Structure
 
-### Typography
-list fonts / fontawesome - describe any fonts used Google fonts etc
-link to each font to describe each
-
-### Wireframes
-- In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
+### Skeleton
+    - In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
 
 #### Home Page & Nav Bar Original Concepts:
 ![alt text](readme/wf_home.png)
@@ -38,6 +35,16 @@ link to each font to describe each
 
 #### Contact Page Original Concept:
 ![alt text](readme/wf_contact.png)
+
+### Surface
+
+#### Color scheme
+describe color scheme
+cooler - will show graphical etc
+
+#### Typography
+list fonts / fontawesome - describe any fonts used Google fonts etc
+link to each font to describe each
 
 ## Features
 
@@ -92,9 +99,9 @@ link to each font to describe each
 
  ### Features Left to implement
 
-There were several additional features and scope that I would be very keen to add to the site, however as a brand new developer, and as someone new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, and so these features will have to be out of scope for this release of the website.
+There were several additional features and scope that I would be very keen to add to the site, however being new to HTML & CSS I found that I was constrained primarily by my own technical coding expertise combined with the time limits in place for the first milestone project submission deadline, and so these features will have to be out of scope for this release of the website.
 
-However, I am working hard on a daily basis to develop my HTML & CSS capability and I am confident this will soon allow me to be able to develop features such as the below and more:
+However, as I develop my HTML & CSS capability I am confident this will soon allow me to be able to develop features such as the below and more:
 
  - Equipment page:
     - This would be an additional dedicated section of the website to cover the equipment used in the sport, for example:
@@ -235,7 +242,7 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
   5. Lough Mask - [Photo](https://www.pexels.com/photo/landscape-photography-of-white-mountain-753325/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) by Julius Silver from Pexels 
   6. Lough Carra - [Photo](https://www.pexels.com/photo/scenic-view-of-lake-in-forest-247600/) from Pixabay (No attribution required)  
 
-  ##### Descriptions
+##### Descriptions
 
   1. River Clare - [Description](https://en.wikipedia.org/wiki/River_Clare) from Wikipedia, the Free Encylopedia 
   2. River Moy - [Description](https://en.wikipedia.org/wiki/River_Moy) from Wikipedia, the Free Encylopedia  
@@ -261,14 +268,14 @@ Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https:
   11. gallery11 - [Photo](https://www.pexels.com/photo/man-in-brown-jacket-standing-on-river-6970952/)  by Kathryn Archibald from Pexels
   12. gallery12 - [Photo](https://www.pexels.com/photo/wood-fishing-landscape-water-6590545/) by Greg from Pexels
 
-  #### Hero Image
+#### Hero Image
 - Fly Fishing Wallpaper HD [Hero image](https://cdn.wallpapersafari.com/54/62/r2HaQg.jpg) sourced from wallpapersafari.com (No attribution required)
 
 #### Home Page
 - About us centerpiece [image](https://www.flyfisherman.com/editorial/foster-care-flyfishing-kayla-lockhart/361701) sourced from Kayla Lockhart flyfisherman.com
 
 
-  ### Media
+### Media
 - The images in the Site were taken from [Pexels](https://www.pexels.com/search/fishing/) and [Pixabay](https://pixabay.com/)
 - The site fonts were taken from [Google Fonts](https://fonts.google.com/)
 - Icons used throughout the site were sourced from [FontAwesome](https://fontawesome.com/)
