@@ -51,7 +51,7 @@
 - The first four Planes of UX enabled the Surface Plane to take shape in terms of finalising the look and feel of the website in terms of color schemes, typography, and imagery:
 
 - #### Color scheme
-    - I used the [Coolors](coolors.com) color consultation website to generate a simple but effective [color palette](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) to underpin the content of the site
+    - I used the [Coolors](https://coolors.co) color consultation website to generate a simple but effective [color palette](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) to underpin the content of the site
     - This consists of [Green Blue](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#0A69C2) text and borders against a [Platinum](https://coolors.co/764248-dda3b2-ffadc6-e3c5bb-dfe2cf) (#ECECEA) backdrop to ensure sufficient contrast
 
 ![alt text](readme/coolers.png)
