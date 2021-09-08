@@ -6,7 +6,6 @@
 - The site will be useful for users to understand some of the attractions of Fly Fishing, and get informed about locations where they can participate in the Sport 
 - The website will be targeted towards people new to the Sport, and towards existing anglers who want to try a different style to traditional rod/reel-based fishing - this is the External User's goal
 
-
 ![alt text](readme/responsive1.png)
 
 ### User Stories
@@ -16,6 +15,14 @@
     - See pictures to understand Fly Fishing, the equipment and the environment in which it can be practised
     - Contact the Freshwater Fly Fishing website owners to ask any questions or queries related to the sport in Ireland
 
+## UX
+### Color scheme
+describe color scheme
+cooler - will show graphical etc
+
+### Typography
+list fonts / fontawesome - describe any fonts used Google fonts etc
+link to each font to describe each
 
 ### Wireframes
 - In line with best practice principles for web design & development - during the planning stage I prepared some simple wireframes using Microsoft Powerpoint to design a skeleton of how the site would look, and also to keep the project focused and on track during the process of coding the website, and to help identify & avoid scope creep where possible
@@ -31,57 +38,6 @@
 
 #### Contact Page Original Concept:
 ![alt text](readme/wf_contact.png)
-
-
-## Table of Contents
-
-- ### [Introduction](https://github.com/dkelly255/freshwater-fly-fishing#introduction)
-    
-    - #### [Concept](https://github.com/dkelly255/freshwater-fly-fishing#concept)
-    
-    - #### [User Stories](https://github.com/dkelly255/freshwater-fly-fishing#user-stories)
-
-    - #### [Wireframes](https://github.com/dkelly255/freshwater-fly-fishing#wireframes)
-
-- ### [Features](https://github.com/dkelly255/freshwater-fly-fishing#features-1)
-
-    - #### [Navigation Bar](https://github.com/dkelly255/freshwater-fly-fishing#navigation-bar-1)
-
-    - #### [Home Page](https://github.com/dkelly255/freshwater-fly-fishing#home-page-image)
-
-    - #### [About Section](https://github.com/dkelly255/freshwater-fly-fishing#about-us-section)
-
-    - #### [Locations](https://github.com/dkelly255/freshwater-fly-fishing#locations-page)
-
-    - #### [Footer](https://github.com/dkelly255/freshwater-fly-fishing#footer-1)
-
-    - #### [Gallery](https://github.com/dkelly255/freshwater-fly-fishing#gallery-1)
-
-    - #### [Contact Page](https://github.com/dkelly255/freshwater-fly-fishing#contact-page-1)
-
-    - #### [Features Yet To Implement](https://github.com/dkelly255/freshwater-fly-fishing#features-left-to-implement)
-
-- ### [Testing](https://github.com/dkelly255/freshwater-fly-fishing#testing-1)
-
-    - #### [Generic Testing](https://github.com/dkelly255/freshwater-fly-fishing#generic-testing)
-
-    - #### [HTML Validation](https://github.com/dkelly255/freshwater-fly-fishing#html)
-
-    - #### [CSS Validation](https://github.com/dkelly255/freshwater-fly-fishing#css)
-
-    - #### [Accessibility](https://github.com/dkelly255/freshwater-fly-fishing#accessibility-1)
-
-    - #### [Bugs (Resolved)](https://github.com/dkelly255/freshwater-fly-fishing#resolved-bugs)
-
-    - #### [Bugs (Unresolved)](https://github.com/dkelly255/freshwater-fly-fishing#unresolved-bugs)
-
-- ### [Deployment](https://github.com/dkelly255/freshwater-fly-fishing#deployment-1)
-
-- ### [Credits](https://github.com/dkelly255/freshwater-fly-fishing#credits-1)
-
-    - #### [Content](https://github.com/dkelly255/freshwater-fly-fishing#content-1)
-
-    - #### [Media](https://github.com/dkelly255/freshwater-fly-fishing#media-1)
 
 ## Features
 
@@ -225,14 +181,13 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
 
 #### Gallery Page Lighthouse (Updated Scores):
 - The updated accessibility score is shown below with a much improved performance metric following my changes above
+
 ![alt text](readme/gallery_performance2.png)
 
 
 #### Contact Page Lighthouse Scores:
+
 ![alt text](readme/contact_lighthouse.png)
-
-
-
 
 ### Resolved Bugs
 - Initially there were unexplained hyphens present between my social media links in my footer - this was due to spaces being present in my anchor element tags in the footer which I resolved
@@ -248,6 +203,13 @@ However, I am working hard on a daily basis to develop my HTML & CSS capability 
     - The link will then be provided to the completed website
 
 The live link can be found here: [Freshwater Fly Fishing](https://dkelly255.github.io/freshwater-fly-fishing/)
+
+### Local Deployment
+
+If you would like to make a local copy of this repository, you can clone it by typing the following command in your IDE terminal:
+- `git clone https://github.com/dkelly255/freshwater-fly-fishing.git`
+
+Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/dkelly255/freshwater-fly-fishing) to generate a new workspace using this repository.
 
 ## Credits
 
