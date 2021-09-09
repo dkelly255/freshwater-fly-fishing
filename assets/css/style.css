@@ -484,34 +484,39 @@ footer {
 }
 
 /* Media query for very  small screens 380px and under - to resolve responsiveness issues from DevTools*/
-
+/*Credits: originally adapted from CI Love Running, but adjusted for layout of this specific website and very small device screens per dev tools testing*/
 @media screen and (max-width: 380px) {
  
     .social-media i {
         font-size: 200%;
-        margin: 2%;
-        padding: 5%;
-        color:#0A69C2;
 }
     #circle-border {
         width:200px;
         height:200px;
         padding: 15px;
-        border-style:solid;
-        border-color: #0A69C2;
-        border-width:  2px;
-        border-radius: 50%;
-        margin: 0 auto;
     }
 
     #circle-inner-image {
-        background: url('../images/ffsubimage1resized.png') no-repeat center center;
         background-size: cover;
-        height: 100%;
-        border-radius: 50%;
-        border-style:solid;
-        border-color: #0A69C2;
-        border-width:  2px;
+    }
+
+    #main-image, #main-outer {
+        height: 400px;
+    }
+
+    #mainimagetext {
+        font-size:100%;
+        letter-spacing: 3px;
+        width: 200px;
+        height: 160px;
+        padding-top: 25px;
+        padding-left: 10px;
+        bottom: 30px;
+        left: 15px;
+    }
+
+    #mainimagetext h2 {
+        font-size:125%;
     }
 
 }
