@@ -352,7 +352,7 @@ footer {
 /* Home page "About" section - key element styling for screens up to 950px */
     #about-header {
         width: 90%;
-        height: 1000px;
+        height: 850px;
         margin: 0 auto;
     }
 
@@ -481,4 +481,37 @@ footer {
         padding: 10px;
         text-align: center;
     }
+}
+
+/* Media query for very  small screens 380px and under - to resolve responsiveness issues from DevTools*/
+
+@media screen and (max-width: 380px) {
+ 
+    .social-media i {
+        font-size: 200%;
+        margin: 2%;
+        padding: 5%;
+        color:#0A69C2;
+}
+    #circle-border {
+        width:200px;
+        height:200px;
+        padding: 15px;
+        border-style:solid;
+        border-color: #0A69C2;
+        border-width:  2px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
+
+    #circle-inner-image {
+        background: url('../images/ffsubimage1resized.png') no-repeat center center;
+        background-size: cover;
+        height: 100%;
+        border-radius: 50%;
+        border-style:solid;
+        border-color: #0A69C2;
+        border-width:  2px;
+    }
+
 }
